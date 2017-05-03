@@ -21,7 +21,6 @@ PHP_Extension
 - Object：所有与数据库交互的Model都可以继承这个类，完成了add/update/delete/active操作，可以通过setData将数组赋值给类
 - Pagination：分页
 - PclZip：压缩打包
-- PHPExcel：源自 [PHPExcel](http://phpexcel.codeplex.com/)
 - Pinyin：将中文转为其拼音
 - PSCWS：分词，依赖于 [scws](http://www.xunsearch.com/scws/) ，需要另行安装
 - Rpc：远程调用，自创，加密内容后压缩传输
